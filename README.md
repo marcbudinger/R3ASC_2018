@@ -8,4 +8,4 @@ Tutors:
 Marc BUDINGER, INSA Toulouse  
 Scott DELBECQ, SAFRAN ED  
 
-[Start here](https://nbviewer.jupyter.org/github.com/marcbudinger/R3ASC_2018/blob/master/00_Introduction.ipynb)
+[Start here](http://nbviewer.jupyter.org/github/marcbudinger/R3ASC_2018/blob/master/00_Introduction.ipynb)
